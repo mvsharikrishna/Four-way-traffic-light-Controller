@@ -1,0 +1,8 @@
+This project is implementation of four – way traffic light controller with following specifications.
+- Free Left
+- Need to avoid routine round robin method of allowing traffic
+- It should have an optimal delay in all directions
+- The following are the signal representations.
+   -> RED: Stop
+   -> GREEN: Allow
+   -> YELLOW: About to turn red
